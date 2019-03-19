@@ -11,6 +11,8 @@ URL: https://github.com/shangqigao/NTIRE2019-image-SR
 Instruction of files:
 
 MsDNN/model/msdnn_feed_v1_96a96_64blocks_1000000: a multi-scale model with 64 residual blocks
+warning: The file "model.checkpoint-999999.data-00000-of-00001" in the fold "msdnn_feed_v1_96a96_64blocks_1000000", 
+one should download it alone and put into the corresponding fold. 
 
 MsDNN/RealSR/Test_LR: The testing dataset provided by the NTIRE2019 SR challenge
 
