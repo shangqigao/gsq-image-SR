@@ -4,7 +4,7 @@ Author: Shangqi Gao, Dengqiang Jia, Fuping Wu, Kaiwen Wan, Xiahai Zhuang*
 
 Affiliation: School of Data Science, Fudan University
 
-URL: https://github.com/shangqigao/NTIRE2019-image-SR
+URL: https://github.com/shangqigao/gsq-image-SR
 
 --------------------------------------------------------------------------------------
 
