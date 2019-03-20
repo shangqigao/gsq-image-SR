@@ -24,7 +24,7 @@ MsDNN/msdnn_demo.py: The codes of obtaining high-resolution images
 
 Instruction of languages:
 
-Tensorflow: GPU version
+Tensorflow-GPU 1.9
 
 Python: 2.7
 
