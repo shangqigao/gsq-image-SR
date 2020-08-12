@@ -34,8 +34,8 @@ Commands of getting high-resolution images:
 
 python2 msdnn_demo.py
 
-After executing the above command, there will exist a fold MsDNN/RealSR/Test_HR, it is the
-resolution of testing dataset
+After executing the above command, there will exist a folder: MsDNN/RealSR/Test_HR, it is the
+super-resolution of testing dataset
 
 
 
